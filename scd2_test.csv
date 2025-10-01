@@ -1,0 +1,4 @@
+empid,name,country,department,StartDate,EndDate
+
+3,Mike,Canada,IT,2025-04-03,NULL
+11,Anish,South Korea,IT,2025-01-10,NULL
